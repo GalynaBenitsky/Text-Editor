@@ -4,14 +4,14 @@ Python Text Editor using Tkinter with tab functionality.
 
 # Menus & Functionality:
 
-* File:
+# * File:
 New
 Open
 Save As...
 Close
 Exit
 
-* Edit and Right click in text window:
+# * Edit and Right click in text window:
 Undo
 Cut
 Copy
