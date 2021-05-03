@@ -3,6 +3,7 @@
 Python Text Editor using Tkinter with tab functionality.
 
 # Menus & Functionality:
+
 * File:
 New
 Open
