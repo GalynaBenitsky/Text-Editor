@@ -20,4 +20,4 @@ Python Text Editor using Tkinter with tab functionality.
 * Select All
 
 # Clone or download this repository
-git clone 
+git clone https://github.com/GalynaBenitsky/Text-Editor.git
