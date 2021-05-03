@@ -19,3 +19,5 @@ Python Text Editor using Tkinter with tab functionality.
 * Delete
 * Select All
 
+# Clone or download this repository
+git clone 
