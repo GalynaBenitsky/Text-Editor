@@ -4,18 +4,18 @@ Python Text Editor using Tkinter with tab functionality.
 
 # Menus & Functionality:
 
-# * File:
-New
-Open
-Save As...
-Close
-Exit
+## File:
+* New
+* Open
+* Save As...
+* Close
+* Exit
 
-# * Edit and Right click in text window:
-Undo
-Cut
-Copy
-Paste
-Delete
-Select All
+## Edit and Right click in text window:
+* Undo
+* Cut
+* Copy
+* Paste
+* Delete
+* Select All
 
